@@ -3,6 +3,10 @@
 @tailwind utilities;
 
 @layer components {
+    .side-bar {
+        @apply bg-slate-100 w-64 h-screen pt-5 px-10 py-10
+    }
+
     .profile-icon {
         @apply bg-yellow-400 rounded w-6 h-6 text-white;
     }
