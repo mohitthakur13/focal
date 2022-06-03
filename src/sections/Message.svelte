@@ -15,7 +15,7 @@
 </script>
 
 <div>
-    <img src={logo} alt="">
+    <img src={logo(true)} alt="">
     <div>
         <div></div>
         <div></div>
